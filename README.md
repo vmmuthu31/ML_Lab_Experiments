@@ -309,16 +309,33 @@ This finds the slope and intercept that minimize the sum of squared errors betwe
 ```
 experiments/
 ├── exp_1&2/
-│   ├── exp_1&2_run.py        # Program 1 & 2: Load dataset, statistics
+│   ├── exp_1&2_run.py              # Program 1 & 2: Load dataset, statistics
 │   └── spotify_songs_demo.csv
-├── exp_3/                     # Linear Regression
-├── exp_4/                     # Bayesian Logistic Regression & SVM
-├── exp_5/                     # K-Means, GMM, Hierarchical Clustering
-├── exp_6/                     # PCA
-├── exp_7/                     # HMM (Viterbi)
-├── exp_8/                     # CART Decision Tree
-├── exp_9/                     # Ensemble Learning
-└── README.md                  # This file
+├── exp_3/
+│   └── exp_3_run.py                # Program 3: Linear Regression (OLS)
+├── exp_4/
+│   ├── exp_4_1_bayesian_logistic.py  # Program 4.1: Bayesian Logistic Regression (MCMC)
+│   └── exp_4_2_svm.py              # Program 4.2: SVM Classification (RBF Kernel)
+├── exp_5/
+│   ├── exp_5_1_kmeans.py           # Program 5.1: K-Means Clustering
+│   ├── exp_5_2_gmm.py             # Program 5.2: Gaussian Mixture Model (EM)
+│   └── exp_5_3_hierarchical.py     # Program 5.3: Hierarchical Clustering
+├── exp_6/
+│   └── exp_6_pca.py                # Program 6: PCA (Eigenvalue Decomposition)
+├── exp_7/
+│   └── exp_7_hmm.py                # Program 7: HMM (Viterbi Algorithm)
+├── exp_8/
+│   └── exp_8_cart.py               # Program 8: CART Decision Tree (Gini)
+├── exp_9/
+│   └── exp_9_ensemble.py           # Program 9: Ensemble (Random Forest + AdaBoost)
+└── README.md
+```
+
+To run any experiment:
+
+```bash
+cd experiments/exp_3
+python3 exp_3_run.py
 ```
 
 ---
