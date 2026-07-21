@@ -1,0 +1,53 @@
+rank,track_name,artist,release_year,genre,duration_min,streams_billions,danceability,energy,spotify_popularity
+1,Paper Waves,The Amber Hours,2020,R&B,3.13,2.87,0.64,0.78,89
+2,Silver Skyline,Sienna Cole,2024,Hip-Hop,2.31,2.18,0.98,0.93,94
+3,Midnight Static,Retro Static,2019,R&B,2.5,1.85,0.77,0.81,55
+4,Neon Memories,Retro Static,2019,R&B,2.73,2.99,0.64,0.86,70
+5,Endless Skyline,Kian Rivers,2017,Indie,4.35,3.46,0.93,0.56,48
+6,Silver Storm,Wren & Sable,2017,R&B,3.05,1.59,0.58,0.72,58
+7,Velvet Shadows,Lior Adams,2021,K-Pop,2.88,0.92,0.96,0.41,54
+8,Hollow Waves,Kian Rivers,2023,Latin Pop,3.92,1.55,0.66,0.33,71
+9,Restless Heart,Ruby Quinn,2022,Afrobeats,3.71,0.73,0.58,0.7,
+10,Neon Diamonds,Lior Adams,2017,Afrobeats,2.62,2.39,0.82,0.45,79
+11,Velvet Fireflies,Lior Adams,2016,Pop,3,3.37,0.67,0.39,77
+12,Lonely Highway,Kian Rivers,2022,Afrobeats,2.74,1.42,0.83,0.46,92
+13,Wild Memories,Coastal Youth,2016,Latin Pop,2.98,1.3,0.97,0.58,71
+14,Velvet Storm,Wren & Sable,2018,Afrobeats,3.86,4.1,0.83,0.71,49
+15,Electric Memories,The Amber Hours,2019,Indie,4.36,3.06,0.54,0.95,68
+16,Fading Heart,Kian Rivers,2017,R&B,3.9,0.55,0.96,0.33,85
+17,Crimson Dreams,Nova Sinclair,2022,Afrobeats,3.29,1.49,0.73,0.67,77
+18,Midnight Shadows,Wren & Sable,2018,Pop,3.83,1.87,,0.31,93
+19,Endless Fireflies,The Paper Moons,2020,R&B,4.19,2.28,0.67,0.32,91
+20,Hollow Static,The Amber Hours,2018,Afrobeats,2.93,0.7,0.46,0.97,75
+21,Neon Rhythm,Lior Adams,2023,Afrobeats,3.73,2.89,0.52,0.74,81
+22,Fading Horizon,Sienna Cole,2024,R&B,3.83,3.35,0.76,0.61,95
+23,Sunny Memories,Retro Static,2017,Indie,3.73,3.42,0.53,0.81,
+24,Silver Echoes,Lior Adams,2023,Indie,2.67,1.05,0.79,0.91,61
+25,Broken Skyline,Ava Marlowe,2024,Latin Pop,3.93,3.08,0.76,0.54,76
+26,Neon Rhythm,Lior Adams,2020,Afrobeats,4.08,1.44,0.7,0.31,
+27,Midnight Dreams,Dex Harlan,2024,Afrobeats,4.01,1.43,0.54,0.88,69
+28,Lonely Dreams,Wren & Sable,2019,Indie,3.28,0.45,0.64,0.36,57
+29,Sunny Static,Dex Harlan,2024,Electronic Pop,3.77,3.3,0.54,0.46,
+30,Lonely Heart,Nova Sinclair,2021,Indie,3.67,3.24,0.84,0.53,87
+31,Silver Memories,Jax Delgado,2024,Indie,3.04,1.57,0.83,0.96,98
+32,Electric Feelings,Coastal Youth,2022,K-Pop,3.95,4.17,0.56,0.41,90
+33,Paper Skyline,Zara Voss,2022,Latin Pop,2.9,0.73,0.96,0.86,71
+34,Restless Embers,Lior Adams,2024,Hip-Hop,2.69,2.11,0.82,0.48,88
+35,Hollow Storm,Sienna Cole,2024,Hip-Hop,3.18,3.51,0.44,0.45,
+36,Velvet Heart,The Night Owls,2017,R&B,4.45,3.86,0.54,0.65,53
+37,Midnight Shadows,Zara Voss,2020,R&B,3.7,2.84,0.62,0.33,93
+38,Lonely Dreams,Dex Harlan,2020,R&B,4.45,3.23,0.7,0.84,72
+39,Neon Shadows,The Amber Hours,2017,R&B,4.31,3.33,0.92,0.74,60
+40,Crimson Embers,Nova Sinclair,2021,K-Pop,3.53,0.89,,0.51,81
+41,Crimson Embers,Zara Voss,2016,Pop,3.48,3.88,0.78,0.48,57
+42,Golden Heart,Sienna Cole,2017,Hip-Hop,3.88,2.61,0.48,0.4,79
+43,Lonely Waves,Wren & Sable,2022,Indie,3.81,3.84,0.61,0.79,57
+44,Sunny Highway,Zara Voss,2023,Hip-Hop,2.52,3,0.36,0.66,96
+45,Wild Rhythm,Nova Sinclair,2017,Indie,2.82,0.76,0.44,0.5,79
+46,Paper Skyline,Nova Sinclair,2019,Pop,3.46,3.81,0.48,0.71,59
+47,Hollow Memories,Dex Harlan,2019,Electronic Pop,3.91,1.11,0.41,0.59,90
+48,Broken Skyline,Lior Adams,2023,Latin Pop,2.38,1.83,0.65,0.49,92
+49,Broken Diamonds,Jax Delgado,2016,Afrobeats,4.38,4.14,0.38,0.92,88
+50,Neon Skyline,Milo Castel,2019,Latin Pop,2.46,2.13,0.96,0.34,64
+10,Neon Diamonds,Lior Adams,2017,Afrobeats,2.62,2.39,0.82,0.45,79
+23,Sunny Memories,Retro Static,2017,Indie,3.73,3.42,0.53,0.81,
